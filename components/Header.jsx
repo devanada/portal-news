@@ -7,6 +7,9 @@ const Header = () => {
       <Link href="/">
         <a className="text-white text-2xl font-bold">Portal News</a>
       </Link>
+      <Link href="/favorites">
+        <a className="text-white text-2xl font-bold">Favorites</a>
+      </Link>
     </div>
   );
 };
